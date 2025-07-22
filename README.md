@@ -1,6 +1,3 @@
-# Distance-Display
-Distance sensor created using custom MB7040 Zephyr driver
-
 # Distance‑Display
 
 Custom Zephyr RTOS project for distance sensing using the MB7040 ultrasonic sensor.
