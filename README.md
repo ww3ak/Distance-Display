@@ -54,7 +54,7 @@ west flash
 
 ## Configuration Options
 
-CONFIG_MB7040_SAMPLING_INTERVAL   # Time between measurements (in ms)
-CONFIG_MB7040_TRIGGER_PULSE_US    # Trigger pulse duration (microseconds)
-CONFIG_MB7040_UART_OUTPUT         # Enable or disable UART output
+- CONFIG_MB7040_SAMPLING_INTERVAL   # Time between measurements (in ms)
+- CONFIG_MB7040_TRIGGER_PULSE_US    # Trigger pulse duration (microseconds)
+- CONFIG_MB7040_UART_OUTPUT         # Enable or disable UART output
 ```
