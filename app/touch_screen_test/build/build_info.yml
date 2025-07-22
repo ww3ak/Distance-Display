@@ -1,0 +1,5 @@
+west:
+  command: C:\Users\SabrinaSimkhovich2\zephProjects\zephyrproject\.venv\Scripts\west
+    build -p -b frdm_mcxn947/mcxn947/cpu0 -- -DSHIELD=lcd_par_s035_spi
+  topdir: C:\Users\SabrinaSimkhovich2\zephProjects\zephyrproject
+  version: 1.4.0

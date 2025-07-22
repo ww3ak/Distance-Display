@@ -1,0 +1,33 @@
+empty_file.o: \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/misc/empty_file.c \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/boards/nxp/frdm_mcxn947/frdm_mcxn947_mcxn947_cpu0.dts \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/boards/nxp/frdm_mcxn947/frdm_mcxn947_mcxn947_cpu0.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/arm/nxp/nxp_mcxn94x.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/common/mem.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/arm/armv8-m.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/common/skeleton.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/arm/nxp/nxp_mcxn94x_common.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/dts/arm/nxp/nxp_mcxnx4x_common.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/clock/mcux_lpc_syscon_clock.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/reset/nxp_syscon_reset_common.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/memory-attr/memory-attr-arm.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_macro.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_internal.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_loops.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_listify.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_internal_is_eq.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_internal_util_inc.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_internal_util_dec.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/sys/util_internal_util_x2.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/memory-attr/memory-attr.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/boards/nxp/frdm_mcxn947/frdm_mcxn947.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/boards/nxp/frdm_mcxn947/frdm_mcxn947-pinctrl.dtsi \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/modules/hal/nxp/dts/nxp/mcx/MCXN947VDF-pinctrl.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/gpio/dvp-20pin-connector.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/boards/shields/lcd_par_s035/lcd_par_s035_spi.overlay \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/mipi_dbi/mipi_dbi.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/zephyr/include/zephyr/dt-bindings/spi/spi.h \
+ C:/Users/SabrinaSimkhovich2/zephProjects/zephyrproject/manifest/app/distance_display/boards/frdm_mcxn947_mcxn947_cpu0.overlay

@@ -1,0 +1,1 @@
+add_subdirectory_ifdef(CONFIG_MB7040 mb7040)

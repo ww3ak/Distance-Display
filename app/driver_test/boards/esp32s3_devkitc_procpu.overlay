@@ -1,0 +1,14 @@
+&i2c0 {
+    status = "okay";
+    mb70401: mb7040@70 {
+        compatible = "maxbotix,mb7040";
+        status = "okay";
+        reg = <0x70>;
+        status-gpios = <&gpio0 4 GPIO_ACTIVE_HIGH>;
+    };
+    mb70402: mb7040@71 {
+        compatible = "maxbotix,mb7040";
+        status = "okay";
+        reg = <0x71>;
+    };
+};

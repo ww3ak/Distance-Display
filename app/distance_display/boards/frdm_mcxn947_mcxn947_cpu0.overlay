@@ -1,0 +1,8 @@
+&flexcomm2_lpi2c2 {
+    status = "okay";
+    mb7040: mb7040@70 {
+        compatible = "maxbotix,mb7040";
+        status = "okay";
+        reg = <0x70>;
+    };
+};

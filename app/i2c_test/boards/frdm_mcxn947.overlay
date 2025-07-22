@@ -1,0 +1,3 @@
+&flexcomm2_lpi2c2 {
+    status = "okay";
+}
